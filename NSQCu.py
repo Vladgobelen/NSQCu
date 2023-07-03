@@ -60,7 +60,7 @@ file_destination = 'temp/..'
 get_files = os.listdir(file_source)
 
 for g in get_files:
-    if g != "NSQCu-1.exe":
+    if g != "NSQCu-2.exe":
         shutil.move(file_source + g, file_destination)
 
 if os.path.isfile('main.zip'):
@@ -69,3 +69,11 @@ if os.path.isdir('temp'):
     shutil.rmtree('temp/')
 if os.path.isfile('NSQCu.exe'):
     os.remove('NSQCu.exe')
+if os.path.isfile('NSQCu-1.exe'):
+    os.remove('NSQCu-1.exe')
+
+if os.path.isfile('ver-133'):
+    print ("ver-133")
+else:
+    fp = open('ver-133', 'x')
+    fp.close()

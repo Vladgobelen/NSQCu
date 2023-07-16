@@ -3,6 +3,19 @@ import shutil
 import os
 import zipfile
 
+if os.path.isfile('NSQCu.exe'):
+    os.remove('NSQCu.exe')
+if os.path.isfile('NSQCu-1.exe'):
+    os.remove('NSQCu-1.exe')
+if os.path.isfile('NSQCu-2.exe'):
+    os.remove('NSQCu-2.exe')
+if os.path.isfile('NSQCu-3.exe'):
+    os.remove('NSQCu-3.exe')
+if os.path.isfile('NSQCu-4.exe'):
+    os.remove('NSQCu-4.exe')
+if os.path.isfile('NSQCu-5.exe'):
+    os.remove('NSQCu-5.exe')
+
 if os.path.isdir('temp'):
     shutil.rmtree('temp/')
 
@@ -14,6 +27,14 @@ with zipfile.ZipFile(archive, 'r') as zip_file:
 
 if os.path.isfile('KLADu.exe'):
     os.remove('KLADu.exe')
+if os.path.isfile('start.ogg'):
+    os.remove('start.ogg')
+if os.path.isfile('fin.ogg'):
+    os.remove('fin.ogg')
+if os.path.isfile('punto.ogg'):
+    os.remove('punto.ogg')
+if os.path.isfile('ver-133'):
+    os.remove('ver-133')
 if os.path.isfile('.gitignore'):
     os.remove('.gitignore')
 if os.path.isfile('achivC.lua'):
@@ -46,6 +67,8 @@ if os.path.isfile('roll.lua'):
     os.remove('roll.lua')
 if os.path.isfile('roll.lua'):
     os.remove('roll.lua')
+if os.path.isfile('121212.tga'):
+    os.remove('121212.tga')
 
 if os.path.isdir('chiavi'):
     shutil.rmtree('chiavi/')
@@ -60,20 +83,12 @@ file_destination = 'temp/..'
 get_files = os.listdir(file_source)
 
 for g in get_files:
-    if g != "NSQCu-2.exe":
+    if g != "NSQCu-6.exe":
         shutil.move(file_source + g, file_destination)
 
 if os.path.isfile('main.zip'):
     os.remove('main.zip')
 if os.path.isdir('temp'):
     shutil.rmtree('temp/')
-if os.path.isfile('NSQCu.exe'):
-    os.remove('NSQCu.exe')
-if os.path.isfile('NSQCu-1.exe'):
-    os.remove('NSQCu-1.exe')
 
-if os.path.isfile('ver-133'):
-    print ("ver-133")
-else:
-    fp = open('ver-133', 'x')
-    fp.close()
+input('Аддон успешно обновлен')

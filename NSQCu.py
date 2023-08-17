@@ -15,6 +15,10 @@ if os.path.isfile('NSQCu-4.exe'):
     os.remove('NSQCu-4.exe')
 if os.path.isfile('NSQCu-5.exe'):
     os.remove('NSQCu-5.exe')
+if os.path.isfile('NSQCu-6.exe'):
+    os.remove('NSQCu-6.exe')
+if os.path.isfile('NSQCu-7.exe'):
+    os.remove('NSQCu-7.exe')
 
 if os.path.isdir('temp'):
     shutil.rmtree('temp/')
@@ -27,6 +31,8 @@ with zipfile.ZipFile(archive, 'r') as zip_file:
 
 if os.path.isfile('KLADu.exe'):
     os.remove('KLADu.exe')
+if os.path.isfile('emblem.tga'):
+    os.remove('emblem.tga')
 if os.path.isfile('start.ogg'):
     os.remove('start.ogg')
 if os.path.isfile('fin.ogg'):
@@ -70,6 +76,8 @@ if os.path.isfile('roll.lua'):
 if os.path.isfile('121212.tga'):
     os.remove('121212.tga')
 
+if os.path.isdir('Incarichi'):
+    shutil.rmtree('Incarichi/')
 if os.path.isdir('chiavi'):
     shutil.rmtree('chiavi/')
 if os.path.isdir('npcscan'):
@@ -83,7 +91,7 @@ file_destination = 'temp/..'
 get_files = os.listdir(file_source)
 
 for g in get_files:
-    if g != "NSQCu-6.exe":
+    if g != "NSQCu-8.exe":
         shutil.move(file_source + g, file_destination)
 
 if os.path.isfile('main.zip'):

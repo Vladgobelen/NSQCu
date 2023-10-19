@@ -16,13 +16,9 @@ def process_exists(process_name):
 		return False
 
 def update():
-	f = int(urllib.request.urlopen('https://raw.githubusercontent.com/Vladgobelen/NSQC/main/vers').read().decode('utf-8').strip())
-	f1 = int(urllib.request.urlopen('https://raw.githubusercontent.com/Vladgobelen/NSQC/main/versad').read().decode('utf-8').strip())
+	f = urllib.request.urlopen('https://github.com/Vladgobelen/NSQC/blob/main/vers').read().decode('utf-8').strip()
 	file = open('Interface/AddOns/NSQC/vers', 'r')
-	file1 = open('Interface/AddOns/NSQC/versad', 'r')
-	ff = int(file.readline().strip())
-	ff1 = int(file1.readline().strip())
-	if int(f) != ff or int(f1) != ff1:
+	if not file.readline().strip() in f:
 		if os.path.isdir('temp'):
 			shutil.rmtree('temp/')
 		urllib.request.urlretrieve("https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip", "main.zip")
@@ -40,9 +36,7 @@ def update():
 		if os.path.isdir('temp'):
 			shutil.rmtree('temp/')
 	file.close()
-	file1.close()
 	del f
-	del f1
 
 update()
 

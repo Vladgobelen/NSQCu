@@ -59,6 +59,9 @@ addons = {
 	'Skada' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Skada.zip", "описание": "Аддон для вычисления урона, отхила игрока, пати рейда", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Skada"},
 	'Tom Tom' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TomTom.zip", "описание": "Добавляет координаты игрока на карту и не только", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/TomTom"},
 	'DBM' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/dbm.zip", "описание": "Обязательный аддон для рейдов", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/DBM-Core"},
+	'Gatherer' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Gatherer.zip", "описание": "Аддон для сбора ресурсов: трава, руда", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Gatherer"},
+	'Auctionator' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Auctionator.zip", "описание": "Аддон для работы с аукционом", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Auctionator"},
+	'BonusScanner' : {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/blob/main/BonusScanner.zip", "описание": "Хрень, нужная для аддона Gear Score", "путь": "Interface/AddOns/", "файл": 2, "временный путь": "temp/", "путь к аддону": "Interface/AddOns/BonusScanner"},
 }
 
 def dl(count, block_size, total_size):
@@ -118,7 +121,7 @@ for name, value in addons.items():
 	addons[name]['button'] = btn
 	addons[name]['check_var'] = var
 top.title("Апдейтер от Ночной стражи")
-top.geometry("300x330")
+top.geometry("300x530")
 limit = 10
 score = 0
 

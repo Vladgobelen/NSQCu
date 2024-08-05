@@ -65,8 +65,31 @@ addons = {
     'BonusScanner': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip",
                      "описание": "Хрень, нужная для аддона Gear Score", "путь": "Interface/AddOns/", "файл": 2,
                      "временный путь": "temp/", "путь к аддону": "Interface/AddOns/BonusScanner"},
+    'Ailo': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Ailo.zip",
+                     "описание": "Какая то хрень, связанная с рейдовыми КД", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Ailo"},
+    'DrDamage': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/DrDamage.zip",
+                     "описание": "Подробная информация о скиллах(урон, лечение, криты, итд)", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/DrDamage"},
+    'MoveAnything': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip",
+                     "описание": "Аддон, позволяющий переместить элементы интерфейса в нужное место", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/MoveAnything"},
+    'OmniCC': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/OmniCC.zip",
+                     "описание": "Добавляет таймер с кд скиллов", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/OmniCC"},
+    'Quartz': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Quartz.zip",
+                     "описание": "Позволяет настроить полоску каста игрока, пета, цели(обязательно для кастеров)", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Quartz"},
+    'SpeedyActions': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",
+                     "описание": "Скиллы начинают применяться при НАЖАТИИ на кнопку, а не при отжатии ее обратно(Обязательно для рог)", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/SpeedyActions"},
+    'Talented': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Talented.zip",
+                     "описание": "Удобная настройка дерева талантов", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/Talented"},
+    'TidyPlates': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
+                     "описание": "Изменяет полоски хп над головой мобов.", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/TidyPlates"},
 }
-
 
 class Tooltip:
     def __init__(self, widget, text):
@@ -226,7 +249,7 @@ if __name__ == "__main__":
         addons[name]['button'] = btn
         addons[name]['check_var'] = var
     top.title("Апдейтер от Ночной стражи")
-    top.geometry("300x530")
+    top.geometry("300x1000")
     updater_timer_thread = Thread(target=guild_addon_update_timer)
     updater_timer_thread.daemon = True
     updater_timer_thread.start()

@@ -89,6 +89,9 @@ addons = {
     'TidyPlates': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
                      "описание": "Изменяет полоски хп над головой мобов.", "путь": "Interface/AddOns/", "файл": 2,
                      "временный путь": "temp/", "путь к аддону": "Interface/AddOns/TidyPlates"},
+    'PallyPower': {"link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
+                     "описание": "Аддон для удобного накладывания бафов ПАЛАДИНАМИ. Обязательно для паладинов!!!", "путь": "Interface/AddOns/", "файл": 2,
+                     "временный путь": "temp/", "путь к аддону": "Interface/AddOns/PallyPower"},
 }
 
 class Tooltip:

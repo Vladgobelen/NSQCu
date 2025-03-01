@@ -1,245 +1,32 @@
 {
-  "NSQC": {
-    "link": "https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip",
-    "описание": "Гильдейский аддон для Ночной стражи",
-    "путь": "Interface/AddOns/NSQC/",
-    "файл": 0,
-    "временный путь": "temp/NSQC-main/",
-    "путь к аддону": "Interface/AddOns/NSQC/",
-    "size": 0
-  },
-  "Шрифты для квестов": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
-    "описание": "Обязательные шрифты для гильдквестов",
-    "путь": ".",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Fonts",
-    "size": 0
-  },
-  "Карты подземелий": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
-    "описание": "Патч для карт подземелий",
-    "путь": "Data/ruRU/patch-ruRU-M.MPQ",
-    "файл": 1,
-    "временный путь": "temp/",
-    "путь к аддону": "Data/ruRU/patch-ruRU-M.MPQ",
-    "size": 0
-  },
-  "WDM": {
-    "link": "https://github.com/Trimitor/WDM-addons/archive/refs/heads/main.zip",
-    "описание": "Аддон для правильного отображения карт подземелий",
-    "путь": "Interface/AddOns/WDM/",
-    "файл": 0,
-    "временный путь": "temp/WDM-addons-main/WDM/",
-    "путь к аддону": "Interface/AddOns/WDM/",
-    "size": 0
-  },
-  "Bartender4": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
-    "описание": "Аддон настройки панелей (очень удобный!!!)",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Bartender4",
-    "size": 0
-  },
-  "ArkInventory": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip",
-    "описание": "Аддон для сумок (объединение сумок в одну, сортировка шмота)",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/ArkInventory",
-    "size": 0
-  },
-  "Chatter": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Chatter.zip",
-    "описание": "Аддон для настройки чата, копирования текста и ссылок",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Chatter",
-    "size": 0
-  },
-  "Crap Away": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
-    "описание": "Автоматическая продажа серого мусора из сумок",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/CrapAway",
-    "size": 0
-  },
-  "Gear Score": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/GearScore.zip",
-    "описание": "Какой-то странный способ оценки крутости шмота",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/GearScore",
-    "size": 0
-  },
-  "Grid2": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Grid2.zip",
-    "описание": "Охренительно удобный аддон для хилов",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Grid2",
-    "size": 0
-  },
-  "Plate Buffs": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PlateBuffs.zip",
-    "описание": "Отображение бафов и дебафов цели прямо на ней",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/PlateBuffs",
-    "size": 0
-  },
-  "Range Display": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/RangeDisplay.zip",
-    "описание": "Отображение расстояния до цели",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/RangeDisplay",
-    "size": 0
-  },
-  "Skada": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Skada.zip",
-    "описание": "Аддон для вычисления урона, отхила игрока, пати рейда",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Skada",
-    "size": 0
-  },
-  "Tom Tom": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TomTom.zip",
-    "описание": "Добавляет координаты игрока на карту и не только",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/TomTom",
-    "size": 0
-  },
-  "DBM": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/dbm.zip",
-    "описание": "Обязательный аддон для рейдов",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/DBM-Core",
-    "size": 0
-  },
-  "Gatherer": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Gatherer.zip",
-    "описание": "Аддон для сбора ресурсов: трава, руда",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Gatherer",
-    "size": 0
-  },
-  "Auctionator": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Auctionator.zip",
-    "описание": "Аддон для работы с аукционом",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Auctionator",
-    "size": 0
-  },
-  "BonusScanner": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip",
-    "описание": "Хрень, нужная для аддона Gear Score",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/BonusScanner",
-    "size": 0
-  },
-  "Ailo": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Ailo.zip",
-    "описание": "Какая-то хрень, связанная с рейдовыми КД",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Ailo",
-    "size": 0
-  },
-  "DrDamage": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/DrDamage.zip",
-    "описание": "Подробная информация о скиллах (урон, лечение, криты, итд)",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/DrDamage",
-    "size": 0
-  },
-  "MoveAnything": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip",
-    "описание": "Аддон, позволяющий переместить элементы интерфейса в нужное место",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/MoveAnything",
-    "size": 0
-  },
-  "OmniCC": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/OmniCC.zip",
-    "описание": "Добавляет таймер с кд скиллов",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/OmniCC",
-    "size": 0
-  },
-  "Quartz": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Quartz.zip",
-    "описание": "Позволяет настроить полоску каста игрока, пета, цели (обязательно для кастеров)",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Quartz",
-    "size": 0
-  },
-  "SpeedyActions": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",
-    "описание": "Скиллы начинают применяться при НАЖАТИИ на кнопку, а не при отжатии её обратно (Обязательно для рог)",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/SpeedyActions",
-    "size": 0
-  },
-  "Talented": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Talented.zip",
-    "описание": "Удобная настройка дерева талантов",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/Talented",
-    "size": 0
-  },
-  "TidyPlates": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
-    "описание": "Изменяет полоски хп над головой мобов.",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/TidyPlates",
-    "size": 0
-  },
-  "PallyPower": {
-    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
-    "описание": "Аддон для удобного накладывания бафов ПАЛАДИНАМИ. Обязательно для паладинов!!!",
-    "путь": "Interface/AddOns/",
-    "файл": 2,
-    "временный путь": "temp/",
-    "путь к аддону": "Interface/AddOns/PallyPower",
-    "size": 0
+  "addons": {
+    "NSQC": {
+      "link": "https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip",
+      "description": "Гильдейский аддон для Ночной стражи",
+      "type": 0,
+      "source_path": "NSQC-main/",
+      "target_path": "Interface/AddOns/NSQC/"
+    },
+    "WDM": {
+      "link": "https://github.com/Trimitor/WDM-addons/archive/refs/heads/main.zip",
+      "description": "Аддон карт подземелий",
+      "type": 0,
+      "source_path": "WDM-addons-main/WDM/",
+      "target_path": "Interface/AddOns/WDM/"
+    },
+    "Fonts": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
+      "description": "Шрифты для квестов",
+      "type": 2,
+      "source_path": "",
+      "target_path": "Fonts/"
+    },
+    "Patch": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
+      "description": "Патч локализации",
+      "type": 1,
+      "source_path": "",
+      "target_path": "Data/ruRU/patch-ruRU-M.MPQ"
+    }
   }
 }

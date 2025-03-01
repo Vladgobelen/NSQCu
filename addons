@@ -1,0 +1,73 @@
+{
+  "NSQC": {
+    "link": "https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip",
+    "описание": "Гильдейский аддон для Ночной стражи",
+    "путь": "Interface/AddOns/NSQC/",
+    "файл": 0,
+    "временный путь": "temp/NSQC-main/",
+    "путь к аддону": "Interface/AddOns/NSQC/",
+    "size": 123456
+  },
+  "Шрифты для квестов": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
+    "описание": "Обязательные шрифты для гильдквестов",
+    "путь": ".",
+    "файл": 2,
+    "временный путь": "temp/",
+    "путь к аддону": "Fonts",
+    "size": 789012
+  },
+  "Карты подземелий": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
+    "описание": "Патч для карт подземелий",
+    "путь": "Data/ruRU/patch-ruRU-M.MPQ",
+    "файл": 1,
+    "путь к аддону": "Data/ruRU/patch-ruRU-M.MPQ",
+    "size": 345678
+  },
+  "WDM": {
+    "link": "https://github.com/Trimitor/WDM-addons/archive/refs/heads/main.zip",
+    "описание": "Аддон для правильного отображения карт подземелий",
+    "путь": "Interface/AddOns/WDM/",
+    "файл": 0,
+    "временный путь": "temp/WDM-addons-main/WDM/",
+    "путь к аддону": "Interface/AddOns/WDM/",
+    "size": 987654
+  },
+  "Bartender4": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
+    "описание": "Аддон настройки панелей (очень удобный!!!)",
+    "путь": "Interface/AddOns/",
+    "файл": 2,
+    "временный путь": "temp/",
+    "путь к аддону": "Interface/AddOns/Bartender4",
+    "size": 234567
+  },
+  "ArkInventory": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip",
+    "описание": "Аддон для сумок (объединение сумок в одну, сортировка шмота)",
+    "путь": "Interface/AddOns/",
+    "файл": 2,
+    "временный путь": "temp/",
+    "путь к аддону": "Interface/AddOns/ArkInventory",
+    "size": 345678
+  },
+  "Chatter": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Chatter.zip",
+    "описание": "Аддон для настройки чата, копирования текста и ссылок",
+    "путь": "Interface/AddOns/",
+    "файл": 2,
+    "временный путь": "temp/",
+    "путь к аддону": "Interface/AddOns/Chatter",
+    "size": 456789
+  },
+  "Crap Away": {
+    "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
+    "описание": "Автоматическая продажа серого мусора из сумок",
+    "путь": "Interface/AddOns/",
+    "файл": 2,
+    "временный путь": "temp/",
+    "путь к аддону": "Interface/AddOns/CrapAway",
+    "size": 567890
+  }
+}

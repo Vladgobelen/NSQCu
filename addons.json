@@ -1,0 +1,193 @@
+{
+  "addons": {
+    "NSQC": {
+      "link": "https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip",
+      "description": "Гильдейский аддон для Ночной Стражи",
+      "type": 0,
+      "source_path": "NSQC-main/",
+      "target_path": "Interface/AddOns/NSQC/"
+    },
+    "WDM": {
+      "link": "https://github.com/Trimitor/WDM-addons/archive/refs/heads/main.zip",
+      "description": "Карты подземелий WDM",
+      "type": 0,
+      "source_path": "WDM-addons-main/WDM/",
+      "target_path": "Interface/AddOns/WDM/"
+    },
+    "Fonts": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
+      "description": "Шрифты для квестов",
+      "type": 2,
+      "source_path": "",
+      "target_path": "Fonts/"
+    },
+    "Patch": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
+      "description": "Патч локализации ruRU",
+      "type": 1,
+      "source_path": "",
+      "target_path": "Data/ruRU/patch-ruRU-M.MPQ"
+    },
+    "Bartender4": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
+      "description": "Панели команд Bartender4",
+      "type": 2,
+      "source_path": "Bartender4",
+      "target_path": "Interface/AddOns/Bartender4/"
+    },
+    "ArkInventory": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip",
+      "description": "Управление инвентарем",
+      "type": 2,
+      "source_path": "ArkInventory",
+      "target_path": "Interface/AddOns/ArkInventory/"
+    },
+    "Chatter": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Chatter.zip",
+      "description": "Улучшения чата",
+      "type": 2,
+      "source_path": "Chatter",
+      "target_path": "Interface/AddOns/Chatter/"
+    },
+    "CrapAway": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
+      "description": "Авто-продажа хлама",
+      "type": 2,
+      "source_path": "CrapAway",
+      "target_path": "Interface/AddOns/CrapAway/"
+    },
+    "GearScore": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/GearScore.zip",
+      "description": "Рейтинг экипировки",
+      "type": 2,
+      "source_path": "GearScore",
+      "target_path": "Interface/AddOns/GearScore/"
+    },
+    "Grid2": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Grid2.zip",
+      "description": "Рейдовые фреймы Grid2",
+      "type": 2,
+      "source_path": "Grid2",
+      "target_path": "Interface/AddOns/Grid2/"
+    },
+    "PlateBuffs": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PlateBuffs.zip",
+      "description": "Баффы на именных пластинах",
+      "type": 2,
+      "source_path": "PlateBuffs",
+      "target_path": "Interface/AddOns/PlateBuffs/"
+    },
+    "RangeDisplay": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/RangeDisplay.zip",
+      "description": "Индикатор дистанции",
+      "type": 2,
+      "source_path": "RangeDisplay",
+      "target_path": "Interface/AddOns/RangeDisplay/"
+    },
+    "Skada": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Skada.zip",
+      "description": "Счетчик урона и исцеления",
+      "type": 2,
+      "source_path": "Skada",
+      "target_path": "Interface/AddOns/Skada/"
+    },
+    "TomTom": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TomTom.zip",
+      "description": "Навигация по координатам",
+      "type": 2,
+      "source_path": "TomTom",
+      "target_path": "Interface/AddOns/TomTom/"
+    },
+    "DBM": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/dbm.zip",
+      "description": "Deadly Boss Mods (Core)",
+      "type": 2,
+      "source_path": "DBM",
+      "target_path": "Interface/AddOns/DBM-Core/"
+    },
+    "Gatherer": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Gatherer.zip",
+      "description": "Сбор ресурсов",
+      "type": 2,
+      "source_path": "Gatherer",
+      "target_path": "Interface/AddOns/Gatherer/"
+    },
+    "Auctionator": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Auctionator.zip",
+      "description": "Аукционный дом",
+      "type": 2,
+      "source_path": "Auctionator",
+      "target_path": "Interface/AddOns/Auctionator/"
+    },
+    "BonusScanner": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip",
+      "description": "Сканер бонусов экипировки",
+      "type": 2,
+      "source_path": "BonusScanner",
+      "target_path": "Interface/AddOns/BonusScanner/"
+    },
+    "Ailo": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Ailo.zip",
+      "description": "Оповещения в бою",
+      "type": 2,
+      "source_path": "Ailo",
+      "target_path": "Interface/AddOns/Ailo/"
+    },
+    "DrDamage": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/DrDamage.zip",
+      "description": "Расчет урона",
+      "type": 2,
+      "source_path": "DrDamage",
+      "target_path": "Interface/AddOns/DrDamage/"
+    },
+    "MoveAnything": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip",
+      "description": "Перемещение элементов интерфейса",
+      "type": 2,
+      "source_path": "MoveAnything",
+      "target_path": "Interface/AddOns/MoveAnything/"
+    },
+    "OmniCC": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/OmniCC.zip",
+      "description": "Таймеры перезарядки",
+      "type": 2,
+      "source_path": "OmniCC",
+      "target_path": "Interface/AddOns/OmniCC/"
+    },
+    "Quartz": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Quartz.zip",
+      "description": "Улучшенные кастбары",
+      "type": 2,
+      "source_path": "Quartz",
+      "target_path": "Interface/AddOns/Quartz/"
+    },
+    "SpeedyActions": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",
+      "description": "Ускорение действий",
+      "type": 2,
+      "source_path": "SpeedyActions",
+      "target_path": "Interface/AddOns/SpeedyActions/"
+    },
+    "Talented": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Talented.zip",
+      "description": "Управление талантами",
+      "type": 2,
+      "source_path": "Talented",
+      "target_path": "Interface/AddOns/Talented/"
+    },
+    "TidyPlates": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
+      "description": "Именные пластины",
+      "type": 2,
+      "source_path": "TidyPlates",
+      "target_path": "Interface/AddOns/TidyPlates/"
+    },
+    "PallyPower": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
+      "description": "Баффы паладинов",
+      "type": 2,
+      "source_path": "PallyPower",
+      "target_path": "Interface/AddOns/PallyPower/"
+    }
+  }
+}

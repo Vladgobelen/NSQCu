@@ -15,7 +15,7 @@
       "description": "Шрифты для квестов",
       "target_path": "/Fonts/",
     },
-    "Patch": {
+    "patch-ruRU-M.MPQ": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
       "description": "Патч локализации ruRU",
       "target_path": "Data/ruRU/patch-ruRU-M.MPQ",

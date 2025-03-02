@@ -20,9 +20,9 @@
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
       "description": "Шрифты для квестов",
       "type": 2,
-      "source_path": "Fonts/",
-      "target_path": "/",
-      "delete_path": "Fonts/"
+      "source_path": "",
+      "target_path": "/Fonts/",
+      "delete_path": "/Fonts/"
     },
     "Patch": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",

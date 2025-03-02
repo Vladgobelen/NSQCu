@@ -13,7 +13,7 @@
     "Fonts": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
       "description": "Шрифты для квестов",
-      "target_path": "../"
+      "target_path": ""
     },
     "patch-ruRU-M.MPQ": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",

@@ -20,7 +20,7 @@
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
       "description": "Шрифты для квестов",
       "type": 2,
-      "source_path": "",
+      "source_path": "Fonts/",
       "target_path": "/",
       "delete_path": "Fonts/"
     },

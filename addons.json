@@ -22,7 +22,7 @@
       "type": 2,
       "source_path": "",
       "target_path": "Fonts/",
-      "delete_path": "Fonts/",
+      "delete_path": "Fonts/"
     },
     "Patch": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",

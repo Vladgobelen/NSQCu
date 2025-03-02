@@ -21,7 +21,7 @@
       "description": "Шрифты для квестов",
       "type": 2,
       "source_path": "",
-      "target_path": "Fonts/",
+      "target_path": "/",
       "delete_path": "Fonts/"
     },
     "Patch": {

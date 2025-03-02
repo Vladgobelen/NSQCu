@@ -45,7 +45,7 @@
       "description": "Управление инвентарем",
       "type": 2,
       "source_path": "ArkInventory",
-      "target_path": "Interface/AddOns/",
+      "target_path": "Interface/AddOns/ArkInventory/",
       "delete_path": "Interface/AddOns/ArkInventory/"
     },
     "Chatter": {

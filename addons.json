@@ -6,7 +6,7 @@
       "target_path": "Interface/AddOns/"
     },
     "WDM": {
-      "link": "https://github.com/Trimitor/WDM-addons/archive/refs/heads/main.zip",
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
       "description": "Аддон для управления картами подземелий + фичи",
       "target_path": "Interface/AddOns/"
     },

@@ -7,7 +7,7 @@
     },
     "WDM": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
-      "description": "Аддон для управления картами подземелий + фичи",
+      "description": "Аддон для управления картами подземелий и прочие фичи",
       "target_path": "Interface/AddOns/"
     },
     "Fonts": {

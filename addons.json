@@ -134,6 +134,11 @@
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
       "description": "Аддон для удобного накладывания бафов ПАЛАДИНАМИ. Обязательно для паладинов!!!",
       "target_path": "Interface/AddOns/"
+    },
+    "Atlas": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Atlas.zip",
+      "description": "Карты инстов (непонятно нахрена - они есть в патче) и лут, вроде как.",
+      "target_path": "Interface/AddOns/"
     }
   }
 }

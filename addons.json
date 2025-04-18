@@ -20,6 +20,11 @@
       "description": "Карты подземелий",
       "target_path": "Data/ruRU/"
     },
+    "patch-L.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-L.mpq",
+      "description": "Красные духи на Леди (ЦЛК)",
+      "target_path": "Data/"
+    },
     "Bartender4": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
       "description": "Аддон настройки панелей(очень удобный!!!)",

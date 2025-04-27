@@ -144,6 +144,11 @@
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Atlas.zip",
       "description": "Карты инстов (непонятно нахрена - они есть в патче) и лут, вроде как.",
       "target_path": "Interface/AddOns/"
+    },
+    "NSQC3": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/NSQC3.zip",
+      "description": "Альфа-версия нового гильдейского аддона",
+      "target_path": "Interface/AddOns/"
     }
   }
 }

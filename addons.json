@@ -25,6 +25,11 @@
       "description": "Красные духи на Леди (ЦЛК)",
       "target_path": "Data/"
     },
+    "Questie-335": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Questie-335.zip",
+      "description": "Аддон для квестов",
+      "target_path": "Interface/AddOns/"
+    },
     "Bartender4": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
       "description": "Аддон настройки панелей(очень удобный!!!)",

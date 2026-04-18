@@ -5,7 +5,9 @@
       "mic-on": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/mic-on.mp3",
       "pop-up-message": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/pop-up-message.mp3",
       "user-join": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/user-join.mp3",
-      "user-leave": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/user-leave.mp3"
+      "user-leave": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/user-leave.mp3",
+      "pop-up": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/pop-up.mp3",
+      "message": "https://github.com/Vladgobelen/NSQCu/raw/refs/heads/main/sounds/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/message.mp3"
     }
   }
 }

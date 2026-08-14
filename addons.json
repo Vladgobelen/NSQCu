@@ -25,6 +25,16 @@
       "description": "Красные духи на Леди (ЦЛК)",
       "target_path": "Data/"
     },
+    "Patch-ruRU-b.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq",
+      "description": "Всегда хорошая погода",
+      "target_path": "Data/ruRU/"
+    },
+    "patch-ruRU-y.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y.mpq",
+      "description": "Покажет всякое разное в ЦЛК",
+      "target_path": "Data/ruRU/"
+    },
     "Questie-335": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Questie-335.zip",
       "description": "Аддон для квестов",
@@ -48,6 +58,11 @@
     "CrapAway": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
       "description": "Автоматическая продажа серого мусора из сумок",
+      "target_path": "Interface/AddOns/"
+    },
+    "Disenchant": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Disenchant.zip",
+      "description": "Автоматический бросок на распыление/жажду/нужду с настройками по качеству предметов",
       "target_path": "Interface/AddOns/"
     },
     "GearScore": {

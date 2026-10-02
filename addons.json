@@ -38,29 +38,29 @@
       "description": "Покажет всякое разное в ЦЛК",
       "target_path": "Data/ruRU/"
     },
-        "patch-ruRU-y AIO 2.6.24 non-HD +halionRange +BPCircle.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y%20AIO%202.6.24%20non-HD%20%2BhalionRange%20%2BBPCircle.mpq",
-      "description": "AIO 2.6.24 (non-HD) + Halion Range + BPCircle",
+    "patch-ruRU-N.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-N.mpq",
+      "description": "Сборник карт и улучшений 2.6.24: отображение радиуса на Халионе и круговые индикаторы для полей боя и арены",
       "target_path": "Data/ruRU/"
     },
-    "patch-ruRU-y AIO 3.0 non-HD +BPCircle -TWCutterGuide.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y%20AIO%203.0%20non-HD%20%2BBPCircle%20-TWCutterGuide.mpq",
-      "description": "AIO 3.0 (non-HD) + BPCircle, без TWCutterGuide",
+    "patch-ruRU-O.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-O.mpq",
+      "description": "Сборник карт и улучшений 3.0: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
-    "patch-ruRU-y AIO 3.0 non-HD +BPCircle.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y%20AIO%203.0%20non-HD%20%2BBPCircle.mpq",
-      "description": "AIO 3.0 (non-HD) + BPCircle",
+    "patch-ruRU-P.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-P.mpq",
+      "description": "Сборник карт и улучшений 3.0: круговые индикаторы для полей боя и арены",
       "target_path": "Data/ruRU/"
     },
-    "patch-ruRU-y AIO 3.0.0 non-HD +BPCircle -TWCutterGuide.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y%20AIO%203.0.0%20non-HD%20%2BBPCircle%20-TWCutterGuide.mpq",
-      "description": "AIO 3.0.0 (non-HD) + BPCircle, без TWCutterGuide",
+    "patch-ruRU-Q.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-Q.mpq",
+      "description": "Сборник карт и улучшений 3.0.0: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
-    "patch-ruRU-y AIO 3.0.1 non-HD +BPCircle -TWCutterGuide.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y%20AIO%203.0.1%20non-HD%20%2BBPCircle%20-TWCutterGuide.mpq",
-      "description": "AIO 3.0.1 (non-HD) + BPCircle, без TWCutterGuide",
+    "patch-ruRU-R.mpq": {
+      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-R.mpq",
+      "description": "Сборник карт и улучшений 3.0.1: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
     "Questie-335": {

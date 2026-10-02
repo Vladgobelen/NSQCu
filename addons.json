@@ -218,6 +218,18 @@
       "description": "Карты инстов (непонятно нахрена - они есть в патче) и лут, вроде как.",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
+    },
+    "NSQC": {
+      "link": "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC.zip",
+      "description": "Гильдейский аддон Ночной Стражи — старая версия (legacy).",
+      "target_path": "Interface/AddOns/",
+      "wrap_in_folder": true
+    },
+    "NSQC3": {
+      "link": "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC3.zip",
+      "description": "Гильдейский аддон Ночной Стражи — альфа-версия 3 (legacy).",
+      "target_path": "Interface/AddOns/",
+      "wrap_in_folder": true
     }
   }
 }

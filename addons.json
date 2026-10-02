@@ -1,8 +1,8 @@
 {
   "addons": {
-    "NSQC": {
-      "link": "https://github.com/Vladgobelen/NSQC/archive/refs/heads/main.zip",
-      "description": "Гильдейский аддон для Ночной Стражи",
+    "NSQC4": {
+      "link": "https://github.com/Vladgobelen/NSQC4/archive/refs/heads/main.zip",
+      "description": "Гильдейский аддон Ночной Стражи",
       "target_path": "Interface/AddOns/"
     },
     "WDM": {
@@ -163,11 +163,6 @@
     "Atlas": {
       "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Atlas.zip",
       "description": "Карты инстов (непонятно нахрена - они есть в патче) и лут, вроде как.",
-      "target_path": "Interface/AddOns/"
-    },
-    "NSQC3": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/NSQC3.zip",
-      "description": "Альфа-версия нового гильдейского аддона",
       "target_path": "Interface/AddOns/"
     }
   }

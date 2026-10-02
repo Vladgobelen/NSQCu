@@ -44,8 +44,8 @@
     },
     "Patch-ruRU-b.mpq": {
       "links": [
-        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq",
-        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq"
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-z.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-z.mpq"
       ],
       "description": "Всегда хорошая погода",
       "target_path": "Data/ruRU/"

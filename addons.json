@@ -1,233 +1,350 @@
 {
   "addons": {
     "NSQC4": {
-      "link": "https://github.com/Vladgobelen/NSQC4/archive/refs/heads/main.zip",
+      "links": [
+        "https://github.com/Vladgobelen/NSQC4/archive/refs/heads/main.zip"
+      ],
       "description": "Гильдейский аддон Ночной Стражи (новая версия с автообновлением)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "WDM": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/WDM.zip"
+      ],
       "description": "Аддон для управления картами подземелий и прочие фичи",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Fonts": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Fonts.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Fonts.zip"
+      ],
       "description": "Шрифты для квестов",
       "target_path": "",
       "wrap_in_folder": false
     },
     "patch-ruRU-M.MPQ": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-M.MPQ"
+      ],
       "description": "Карты подземелий",
       "target_path": "Data/ruRU/"
     },
     "patch-L.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-L.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-L.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-L.mpq"
+      ],
       "description": "Красные духи на Леди (ЦЛК)",
       "target_path": "Data/"
     },
     "Patch-ruRU-b.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Patch-ruRU-b.mpq"
+      ],
       "description": "Всегда хорошая погода",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-y.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-y.mpq"
+      ],
       "description": "Покажет всякое разное в ЦЛК",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-N.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-N.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-N.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-N.mpq"
+      ],
       "description": "Сборник карт и улучшений 2.6.24: отображение радиуса на Халионе и круговые индикаторы для полей боя и арены",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-O.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-O.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-O.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-O.mpq"
+      ],
       "description": "Сборник карт и улучшений 3.0: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-P.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-P.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-P.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-P.mpq"
+      ],
       "description": "Сборник карт и улучшений 3.0: круговые индикаторы для полей боя и арены",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-Q.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-Q.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-Q.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-Q.mpq"
+      ],
       "description": "Сборник карт и улучшений 3.0.0: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
     "patch-ruRU-R.mpq": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-R.mpq",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/patch-ruRU-R.mpq",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/patch-ruRU-R.mpq"
+      ],
       "description": "Сборник карт и улучшений 3.0.1: круговые индикаторы для полей боя и арены. Без гайда по обрезке TBC-контента",
       "target_path": "Data/ruRU/"
     },
     "Questie-335": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Questie-335.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Questie-335.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Questie-335.zip"
+      ],
       "description": "Аддон для квестов",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Bartender4": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Bartender4.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Bartender4.zip"
+      ],
       "description": "Аддон настройки панелей(очень удобный!!!)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "ArkInventory": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/ArkInventory.zip"
+      ],
       "description": "Аддон для сумок(объединение сумок в одну, сортировка шмота)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Chatter": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Chatter.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Chatter.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Chatter.zip"
+      ],
       "description": "Аддон для настройки чата, копирования текста и ссылок",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "CrapAway": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/CrapAway.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/CrapAway.zip"
+      ],
       "description": "Автоматическая продажа серого мусора из сумок",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Disenchant": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Disenchant.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Disenchant.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Disenchant.zip"
+      ],
       "description": "Автоматический бросок на распыление/жажду/нужду с настройками по качеству предметов",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "GearScore": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/GearScore.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/GearScore.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/GearScore.zip"
+      ],
       "description": "Какой то странный способ оценки крутости шмота(нужно для рейдов)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Grid2": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Grid2.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Grid2.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Grid2.zip"
+      ],
       "description": "Охренительно удобный аддон для хилов (рейдовые фреймы)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "PlateBuffs": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PlateBuffs.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PlateBuffs.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/PlateBuffs.zip"
+      ],
       "description": "Отображение бафов и дебафов цели прямо над ником цели",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "RangeDisplay": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/RangeDisplay.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/RangeDisplay.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RangeDisplay.zip"
+      ],
       "description": "Отображение расстояния до цели",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Skada": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Skada.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Skada.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Skada.zip"
+      ],
       "description": "Аддон для вычисления урона, отхила игрока, пати рейда",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "TomTom": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TomTom.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TomTom.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/TomTom.zip"
+      ],
       "description": "Навигация по координатам",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "DBM": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/dbm.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/dbm.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/dbm.zip"
+      ],
       "description": "Обязательный аддон для рейдов",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Gatherer": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Gatherer.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Gatherer.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Gatherer.zip"
+      ],
       "description": "Аддон для сбора ресурсов: трава, руда",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Auctionator": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Auctionator.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Auctionator.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Auctionator.zip"
+      ],
       "description": "Аддон для работы с аукционом",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "BonusScanner": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/BonusScanner.zip"
+      ],
       "description": "Хрень, нужная для аддона Gear Score",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Ailo": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Ailo.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Ailo.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Ailo.zip"
+      ],
       "description": "Какая то хрень, связанная с рейдовыми КД",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "DrDamage": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/DrDamage.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/DrDamage.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/DrDamage.zip"
+      ],
       "description": "Подробная информация о скиллах(урон, лечение, криты, итд) !!!Много жрет ресурсов!!!",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "MoveAnything": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/MoveAnything.zip"
+      ],
       "description": "Аддон, позволяющий переместить элементы интерфейса в нужное место",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "OmniCC": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/OmniCC.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/OmniCC.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/OmniCC.zip"
+      ],
       "description": "Добавляет таймер с кд скиллов",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Quartz": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Quartz.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Quartz.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Quartz.zip"
+      ],
       "description": "Позволяет настроить полоску каста игрока, пета, цели(обязательно для кастеров)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "SpeedyActions": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip"
+      ],
       "description": "Скиллы начинают применяться при НАЖАТИИ на кнопку, а не при отжатии ее обратно(Обязательно для рог)",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Talented": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Talented.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Talented.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Talented.zip"
+      ],
       "description": "Управление талантами",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "TidyPlates": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/TidyPlates.zip"
+      ],
       "description": "Изменяет полоски хп над головой мобов",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "PallyPower": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/PallyPower.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/PallyPower.zip"
+      ],
       "description": "Аддон для удобного накладывания бафов ПАЛАДИНАМИ. Обязательно для паладинов!!!",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "Atlas": {
-      "link": "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Atlas.zip",
+      "links": [
+        "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/Atlas.zip",
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Atlas.zip"
+      ],
       "description": "Карты инстов (непонятно нахрена - они есть в патче) и лут, вроде как.",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "NSQC": {
-      "link": "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC.zip",
-      "description": "Гильдейский аддон Ночной Стражи — старая версия (legacy).",
+      "links": [
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC.zip"
+      ],
+      "description": "Гильдейский аддон Ночной Стражи — старая версия (legacy). Не включать вместе с NSQC4",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
     "NSQC3": {
-      "link": "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC3.zip",
-      "description": "Гильдейский аддон Ночной Стражи — альфа-версия 3 (legacy).",
+      "links": [
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/NSQC3.zip"
+      ],
+      "description": "Гильдейский аддон Ночной Стражи — альфа-версия 3 (legacy). Не включать вместе с NSQC4",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     }

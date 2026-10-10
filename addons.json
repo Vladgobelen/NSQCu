@@ -1,7 +1,6 @@
 {
   "addons": {
     "NSQC4": {
-      "version": 138,
       "links": [
         "https://github.com/Vladgobelen/NSQC4/archive/refs/heads/main.zip"
       ],
@@ -10,7 +9,7 @@
       "wrap_in_folder": true
     },
     "WDM": {
-      "version": 3,
+      "version": 4,
       "links": [
         "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
         "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/WDM.zip"
@@ -389,4 +388,4 @@
       "wrap_in_folder": true
     }
   }
-}
+}ц

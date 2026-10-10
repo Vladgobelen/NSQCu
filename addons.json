@@ -9,7 +9,7 @@
       "wrap_in_folder": true
     },
     "WDM": {
-      "version": 4,
+      "version": 3,
       "links": [
         "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
         "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/WDM.zip"

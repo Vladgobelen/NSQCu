@@ -8,6 +8,14 @@
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
+    "RAY": {
+      "links": [
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
+      ],
+      "description": "Аддон как замена кривым ТВМ и прочим викаурусам. Гораздо лучше них. Писала Высшая.",
+      "target_path": "Interface/AddOns/",
+      "wrap_in_folder": true
+    },
     "WDM": {
       "links": [
         "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/WDM.zip",
@@ -284,14 +292,6 @@
         "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/Quartz.zip"
       ],
       "description": "Позволяет настроить полоску каста игрока, пета, цели(обязательно для кастеров)",
-      "target_path": "Interface/AddOns/",
-      "wrap_in_folder": true
-    },
-    "RAY": {
-      "links": [
-        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
-      ],
-      "description": "Аддон как замена кривым ТВМ и прочим викаурусам. Гораздо лучше них. Писала Высшая.",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },

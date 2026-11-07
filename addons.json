@@ -12,7 +12,7 @@
       "links": [
         "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
       ],
-      "description": "Аддон как замена кривым ТВМ и прочим викаурусам. Гораздо лучше них. Писала Высшая.",
+      "description": "Текстовая напоминалка о селф-баффах и не только. От Высшей.",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },

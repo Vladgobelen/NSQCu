@@ -287,6 +287,14 @@
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
+    "RAY": {
+      "links": [
+        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
+      ],
+      "description": "Аддон как замена кривым ТВМ и прочим викаурусам. Гораздо лучше них. Писала Высшая.",
+      "target_path": "Interface/AddOns/",
+      "wrap_in_folder": true
+    },
     "SpeedyActions": {
       "links": [
         "https://hub.mos.ru/vladgobelen/nsqcmap/-/raw/main/SpeedyActions.zip",

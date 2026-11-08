@@ -8,11 +8,11 @@
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },
-    "RAY - Remember About Yourself": {
+    "RAY": {
       "links": [
         "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
       ],
-      "description": "Текстовая напоминалка о селф-баффах и не только. От Высшей.",
+      "description": "RAY - Remember About Yourself: Текстовая напоминалка о селф-баффах и не только. От Высшей.",
       "target_path": "Interface/AddOns/",
       "wrap_in_folder": true
     },

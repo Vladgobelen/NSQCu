@@ -10,7 +10,7 @@
     },
     "RAY": {
       "links": [
-        "https://gitlab.com/Vladgobelen/nsqcmap/-/raw/main/RAY.zip"
+        "https://github.com/Highest-V/RAY/archive/refs/heads/main.zip"
       ],
       "description": "RAY - Remember About Yourself: Текстовая напоминалка о селф-баффах и не только. От Высшей.",
       "target_path": "Interface/AddOns/",
